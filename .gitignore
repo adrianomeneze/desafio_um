@@ -1,0 +1,20 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependências
+venv/
+env/
+env.bak/
+*.env
+*.venv
+pip-selfcheck.json
+*.coverage
+
+# Arquivos gerados pelo VSCode
+.vscode/
+*.code-workspace
+*.vsix
+*.vscodeignore
